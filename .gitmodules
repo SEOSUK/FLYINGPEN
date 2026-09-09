@@ -1,0 +1,8 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/SEOSUK/FLYINGPEN-FIRMWARE.git
+	branch = FLYINGPEN
+[submodule "ros2_interface"]
+	path = ros2_interface
+	url = https://github.com/SEOSUK/FLYINGPEN_ROS2-INTERFACE.git
+	branch = FLYINGPEN
