@@ -3,7 +3,7 @@
 
 **Project Period:** Jan. 2025 – Present
 
-*IEEE Robotics and Automation Letters (RA-L) — Manuscript in preparation.*
+*Manuscript in preparation — IEEE Robotics and Automation Letters (RA-L).*
 
 ## 🔹 Overview
 
