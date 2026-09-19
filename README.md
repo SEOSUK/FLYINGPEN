@@ -19,6 +19,14 @@
 
 ## 🎥 Preliminary Experiment
 
+### Thrust Effectiveness Correction
+
+https://github.com/user-attachments/assets/accd8cf2-8e62-4524-8cb4-f559fa3b9234
+
+*Comparison between the raw momentum observer (MOB) and the η_T-updated MOB, showing improved alignment of the estimated force direction with the wall normal.*
+
+### Early-Stage Demonstration
+
 https://github.com/user-attachments/assets/69a10c2e-2a55-4dab-9d5c-9ec235f88d85
 
 *Early-stage demonstration using an initial version of the Flying Pen framework.*
