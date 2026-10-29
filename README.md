@@ -1,6 +1,21 @@
 # Flying Pen
 *Real-Time Contact-Aware Control for Aerial Manipulator via Normal Vector Estimation on Unstructured Surfaces*
 
+## Clone This Repository
+
+Clone the repository together with all submodules:
+
+```bash
+git clone --recurse-submodules https://github.com/SEOSUK/FLYINGPEN.git
+cd FLYINGPEN
+```
+
+If the repository was already cloned without submodules, initialize them with:
+
+```bash
+git submodule update --init --recursive
+```
+
 **Project Period:** Jan. 2025 – Present
 
 *Manuscript in preparation — IEEE Robotics and Automation Letters (RA-L).*
