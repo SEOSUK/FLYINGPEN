@@ -18,8 +18,6 @@ git submodule update --init --recursive
 
 **Project Period:** Jan. 2025 – Present
 
-*Manuscript in preparation — IEEE Robotics and Automation Letters (RA-L).*
-
 ## 🔹 Overview
 
 <div align="center">
