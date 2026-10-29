@@ -1,21 +1,6 @@
 # Flying Pen
 *Real-Time Contact-Aware Control for Aerial Manipulator via Normal Vector Estimation on Unstructured Surfaces*
 
-## Clone This Repository
-
-Clone the repository together with all submodules:
-
-```bash
-git clone --recurse-submodules https://github.com/SEOSUK/FLYINGPEN.git
-cd FLYINGPEN
-```
-
-If the repository was already cloned without submodules, initialize them with:
-
-```bash
-git submodule update --init --recursive
-```
-
 **Project Period:** Jan. 2025 – Present
 
 ## 🔹 Overview
@@ -55,3 +40,19 @@ https://github.com/user-attachments/assets/accd8cf2-8e62-4524-8cb4-f559fa3b9234
 The initial surface-normal-estimation study was presented as a poster at **KRoC 2025**.
 
 🔗 [KRoC 2025 — Normal Estimation](https://github.com/SEOSUK/DONE-KROC_Normal_Estimation)
+
+
+## Clone This Repository
+
+Clone the repository together with all submodules:
+
+```bash
+git clone --recurse-submodules https://github.com/SEOSUK/FLYINGPEN.git
+cd FLYINGPEN
+```
+
+If the repository was already cloned without submodules, initialize them with:
+
+```bash
+git submodule update --init --recursive
+```
